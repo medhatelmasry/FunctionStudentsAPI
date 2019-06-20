@@ -3,7 +3,7 @@
     "FunctionStudentsAPI": {
       "commandName": "Project",
       "environmentVariables": {
-        "CSTRING": "Server=tcp:mze.database.windows.net,1433;Initial Catalog=StudentsDB;Persist Security Info=False;User ID=medhat;Password=C0ptic!(;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
+        "CSTRING": "Server=tcp:XXX.database.windows.net,1433;Initial Catalog=StudentsDB;Persist Security Info=False;User ID=YYY;Password=ZZZ;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
       }
     }
   }
